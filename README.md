@@ -113,7 +113,7 @@ As part of the software engineering team at STT, my work is centered in the deve
 <div>
   <figure>
     <a href="https://scholar.google.com/citations?user=mdybD70AAAAJ">
-      <img src="https://cbuchart.com/wp-content/uploads/gscholar.png" alt="Google Scholar" class="wp-image-947" width="168" height="42"/>
+      <img src="images/gscholar.png" alt="Google Scholar" class="wp-image-947" width="168" height="42"/>
     </a>
   </figure>
 </div>
