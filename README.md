@@ -6,6 +6,13 @@
   - Birthplace: Valencia, Venezuela
   - Hometown: Valencia, Spain
   - Contact: [cbuchart@gmail.com](mailto:cbuchart@gmail.com)
+ 
+### 🔊Social
+  - [HeaderFiles](https://headerfiles.com)
+  - [LinkedIn](https://www.linkedin.com/in/cbuchart/)
+  - [GitHub](https://github.com/cbuchart)
+  - [Stack Overflow](https://stackoverflow.com/users/1485885/cbuchart)
+  - [@carlosbuchart](https://twitter.com/intent/tweet?screen_name=carlosbuchart&ref_src=twsrc%5Etfw)
 
 ## 💼Current positions
   - Software Engineer. [STT Systems](https://www.stt-systems.com), Spain. Since Feb. 2013.
