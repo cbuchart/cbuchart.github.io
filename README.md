@@ -20,7 +20,7 @@
 
 # 💼Current positions
 
-- Senior C++ Embedded Software Engineer. [Wallbox][https://wallbox.com/], Spain. Since Sep. 2021.
+- Senior C++ Embedded Software Engineer. [Wallbox](https://wallbox.com/), Spain. Since Sep. 2021.
 - Operating Systems. Invited Professor. Undergraduate course. [TECNUN](https://tecnun.unav.edu), University of Navarra, Spain. Since Sep. 2011.
 
 # 📚Studies
