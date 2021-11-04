@@ -16,7 +16,6 @@
 - [LinkedIn](https://www.linkedin.com/in/cbuchart/)
 - [GitHub](https://github.com/cbuchart)
 - [Stack Overflow](https://stackoverflow.com/users/1485885/cbuchart)
-- [@carlosbuchart](https://twitter.com/intent/tweet?screen_name=carlosbuchart&ref_src=twsrc%5Etfw)
 
 # 💼Current positions
 
@@ -32,7 +31,7 @@
 
 ## 💡Background
 
-- High proficiency in C++. Other programming languages with experience: C, Java, Python, C#, Visual Basic, MATLAB, Objective-C.
+- High proficiency in C++ (up to C++17, limited experience with C++20). Other programming languages with experience: C, Java, Python, C#, Visual Basic, MATLAB, Objective-C.
 - High proficiency with Qt and Boost. Other high level APIs with experience include VTK, .Net, MFC, Poco.
 - Wide experience designing and developing user interfaces for desktop applications (mainly in Qt).
 - Wide experience in the development of graphic engines and visualization tools.
@@ -62,7 +61,9 @@
 
 # 🖥Projects
 
-As part of the software engineering team at STT, my work is centered in the development of applications for motion capture, video processing and 3D scanning, as well as in the design of user interfaces for highly demanding desktop software and mobile applications. At CEIT I focused on the research and development of simulators, medical imaging software and training systems.
+I am currently part of the Embedded Team at Wallbox Chargers, focusing in the development of the services running in the chargers.
+
+As part of the software engineering team at STT, my work was centered in the development of applications for motion capture, video processing and 3D scanning, as well as in the design of user interfaces for highly demanding desktop software and mobile applications. At CEIT I focused on the research and development of simulators, medical imaging software and training systems.
 
 ## 📀Recent projects
 
