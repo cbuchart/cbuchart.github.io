@@ -36,6 +36,7 @@
 - Wide experience designing and developing user interfaces for desktop applications (mainly in Qt).
 - Wide experience in the development of graphic engines and visualization tools.
 - Wide experience in parallel architectures using multi-threading designs (C++11-17, Qt, pthreads, Boost) as well as with GPGPU technologies such as CUDA.
+- Wide experience with Docker, CI in GitLab and CMake.
 - Experience with web technologies such as JavaScript, jQuery, HTML 5, CSS 3 and PHP.
 - Wide past experience with OpenGL and shading languages (GLSL, Cg).
 - Past experience with mobile frameworks: Cocoa Touch, Android SDK.
@@ -61,7 +62,7 @@
 
 # 🖥Projects
 
-I am currently part of the Embedded Team at Wallbox Chargers, focusing in the development of the services running in the chargers.
+I am currently part of the Embedded Team at Wallbox Chargers, focusing in the development of the services running in the chargers. Additionally, I collaborate with the QA Team in improvements on the GitLab pipeline and other automations.
 
 As part of the software engineering team at STT, my work was centered in the development of applications for motion capture, video processing and 3D scanning, as well as in the design of user interfaces for highly demanding desktop software and mobile applications. At CEIT I focused on the research and development of simulators, medical imaging software and training systems.
 
