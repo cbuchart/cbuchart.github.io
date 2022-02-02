@@ -35,10 +35,11 @@
 - High proficiency with Qt and Boost. Other high level APIs with experience include VTK, .Net, MFC, Poco.
 - Wide experience designing and developing user interfaces for desktop applications (mainly in Qt).
 - Wide experience in the development of graphic engines and visualization tools.
-- Wide experience in parallel architectures using multi-threading designs (C++11-17, Qt, pthreads, Boost) as well as with GPGPU technologies such as CUDA.
-- Wide experience with Docker, CI in GitLab and CMake.
+- Wide experience in parallel architectures using multi-threading designs (C++11-17, Qt, pthreads, Boost).
+- Experience with Docker, CI in GitLab and CMake.
 - Experience with web technologies such as JavaScript, jQuery, HTML 5, CSS 3 and PHP.
 - Wide past experience with OpenGL and shading languages (GLSL, Cg).
+- Wide past experience with with GPGPU technologies such as CUDA.
 - Past experience with mobile frameworks: Cocoa Touch, Android SDK.
 
 ## 🔬Research interests
@@ -162,6 +163,7 @@ As part of the software engineering team at STT, my work was centered in the dev
 
 ## 🎫Courses and seminars
 
+- ThePowerMBA. ThePower Business School. Jan. 2022 - now.
 - Research internship at the Universidad Autónoma de Occidente, Cali, Colombia. Sep. 2012.
 - Participation in the formative session "MLPR: Programming Techniques in MATLAB". MathWorks, Spain. Apr. 2012.
 - Participation in the formative session "Exigencia en la formación del estudiante". University of Navarra, Spain. Dec. 10. 2010.
