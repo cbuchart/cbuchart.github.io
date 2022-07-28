@@ -8,7 +8,7 @@
 - Birthdate: May 3rd, 1984
 - Birthplace: Valencia, Venezuela
 - Hometown: Valencia, Spain
-- Contact: [cbuchart@gmail.com](mailto:cbuchart@gmail.com)
+- Contact: cbuchart 'at' gmail 'dot' com
 
 ## 🔊Social
 
@@ -19,7 +19,7 @@
 
 # 💼Current positions
 
-- Senior C++ Embedded Software Engineer. [Wallbox](https://wallbox.com/), Spain. Since Sep. 2021.
+- Senior C++ Embedded Software Engineer. [Wallbox](https://wallbox.com), Spain. Since Sep. 2021.
 - Operating Systems. Invited Professor. Undergraduate course. [TECNUN](https://tecnun.unav.edu), University of Navarra, Spain. Since Sep. 2011.
 
 # 📚Studies
@@ -31,12 +31,12 @@
 
 ## 💡Background
 
-- High proficiency in C++ (up to C++17, limited experience with C++20). Other programming languages with experience: C, Java, Python, C#, Visual Basic, MATLAB, Objective-C.
+- High proficiency in C++ (up to C++17, limited experience with C++20). Other programming languages with experience: C, Java, Python, C#, Visual Basic, MATLAB, Objective-C, Bash.
 - High proficiency with Qt and Boost. Other high level APIs with experience include VTK, .Net, MFC, Poco.
 - Wide experience designing and developing user interfaces for desktop applications (mainly in Qt).
 - Wide experience in the development of graphic engines and visualization tools.
 - Wide experience in parallel architectures using multi-threading designs (C++11-17, Qt, pthreads, Boost).
-- Experience with Docker, CI in GitLab and CMake.
+- Experience with Docker, CI/CD in GitLab and CMake.
 - Experience with web technologies such as JavaScript, jQuery, HTML 5, CSS 3 and PHP.
 - Wide past experience with OpenGL and shading languages (GLSL, Cg).
 - Wide past experience with with GPGPU technologies such as CUDA.
@@ -121,6 +121,7 @@ As part of the software engineering team at STT, my work was centered in the dev
 
 ## 📽Conferences
 
+- Buchart, C. "Integrating Qt in Legacy MFC Applications". QtDevCon22. Berlin, Germany. Jun. 13-15, 2022.
 - Echegaray, G., Herrera, I., Aguinaga, I., Buchart, C. &amp; Borro, D. "Towards a Multimodal Neurosurgery Simulator: Brain Haptic Physical Simulation and Visualization". Proceedings of the XXX Congreso Anual de la Sociedad Española de Ingeniería Biomédica (CASEIB 2012). San Sebastián, Spain. Nov. 19-21, 2012.
 - Echegaray, G., Herrera, I., Buchart, C. &amp; Borro, D. "Towards a Multimodal Neurosurgery Simulator: Drilling Simulation and Visualization Using Real Patient Data", Proceedings of the XXIX Congreso Anual de la Sociedad Española de Ingeniería Biomédica (CASEIB 2011), pp. 423-426. Cáceres, Spain. Nov. 16-18, 2011.
 - Herrera, I., Buchart, C. &amp; Borro, D. "Preserving coherent illumination in style transfer functions for volume rendering". Proceedings of the Information Visualization Conference (IV'10). London, UK. Jul. 27-29, 2010. [DOI](https://dx.doi.org/10.1109/IV.2010.16).
@@ -164,6 +165,7 @@ As part of the software engineering team at STT, my work was centered in the dev
 ## 🎫Courses and seminars
 
 - ThePowerMBA. ThePower Business School. Jan. 2022 - now.
+- Training course "GitLab CI - A Complete Hands-On for CI/CD Pipelines & DevOps". 2022. [Certificate](https://www.udemy.com/certificate/UC-0ee63c64-ec11-4aad-887d-d70b1ad0b54e/).
 - Research internship at the Universidad Autónoma de Occidente, Cali, Colombia. Sep. 2012.
 - Participation in the formative session "MLPR: Programming Techniques in MATLAB". MathWorks, Spain. Apr. 2012.
 - Participation in the formative session "Exigencia en la formación del estudiante". University of Navarra, Spain. Dec. 10. 2010.
