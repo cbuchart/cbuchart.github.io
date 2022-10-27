@@ -1,7 +1,7 @@
 title: Carlos Buchart
 description: Personal homepage of Carlos Buchart
 show_downloads: false
-theme: jekyll-theme-slate
+remote_theme: pages-themes/slate@v0.2.0
 encoding: UTF-8
 locale: es_ES
 
@@ -12,3 +12,6 @@ compress_html:
   blanklines: false
   profile: false
   startings: all
+
+plugins:
+  - jekyll-remote-theme
