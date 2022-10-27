@@ -2,3 +2,13 @@ title: Carlos Buchart
 description: Personal homepage of Carlos Buchart
 show_downloads: false
 theme: jekyll-theme-slate
+encoding: UTF-8
+locale: es_ES
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: []
+  blanklines: false
+  profile: false
+  startings: all
