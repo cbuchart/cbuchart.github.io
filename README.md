@@ -32,7 +32,7 @@
 ## 💡Background
 
 - High proficiency in C++ (up to C++17, limited experience with C++20). Other programming languages with experience: C, Java, Python, C#, Visual Basic, MATLAB, Objective-C, Bash.
-- High proficiency with Qt and Boost. Other high level APIs with experience include VTK, .Net, MFC, Poco.
+- High proficiency with Qt and Boost. Other high level APIs with experience include VTK, .Net, MFC, Poco, GoogleTest.
 - Wide experience designing and developing user interfaces for desktop applications (mainly in Qt).
 - Wide experience in the development of graphic engines and visualization tools.
 - Wide experience in parallel architectures using multi-threading designs (C++11-17, Qt, pthreads, Boost).
@@ -152,6 +152,16 @@ As part of the software engineering team at STT, my work was centered in the dev
 
 # 📌Miscellaneous
 
+## 🎫Courses and seminars
+
+- ThePowerMBA. ThePower Business School. Jan. 2022 - Oct. 2022.
+- Training course "GitLab CI - A Complete Hands-On for CI/CD Pipelines & DevOps". 2022. [Certificate](https://www.udemy.com/certificate/UC-0ee63c64-ec11-4aad-887d-d70b1ad0b54e/).
+- Research internship at the Universidad Autónoma de Occidente, Cali, Colombia. Sep. 2012.
+- Participation in the formative session "MLPR: Programming Techniques in MATLAB". MathWorks, Spain. Apr. 2012.
+- Participation in the formative session "Exigencia en la formación del estudiante". University of Navarra, Spain. Dec. 10. 2010.
+- Participation in the Investment Readiness Seminar: "Creación de Empresa y Preparación a la Inversión". San Sebastián, Spain. Sep. 19, 26, Oct. 10, 24. 2008.
+- NetRiders - Cisco Systems Anual Conference of Networks. Mérida, Venezuela. Jul. 2003.
+
 ## 🥇Acknowledgements and awards
 
 - Mention "Sobresaliente cum laude". PhD Thesis. University of Navarra, Spain. 2010.
@@ -161,16 +171,6 @@ As part of the software engineering team at STT, my work was centered in the dev
 - "Batalla de Carabobo" order in its Third Class for Academic Performance. Government of Carabobo, Venezuela. 2005.
 - Best student of the School of Science and Technology. University of Carabobo, Venezuela. 2001-2002, 2002-2003, 2003-2004, 2004-2005.
 - Participation in the VII Programming South American Conquest by the ACM. Maracaibo, Venezuela. 2003.
-
-## 🎫Courses and seminars
-
-- ThePowerMBA. ThePower Business School. Jan. 2022 - now.
-- Training course "GitLab CI - A Complete Hands-On for CI/CD Pipelines & DevOps". 2022. [Certificate](https://www.udemy.com/certificate/UC-0ee63c64-ec11-4aad-887d-d70b1ad0b54e/).
-- Research internship at the Universidad Autónoma de Occidente, Cali, Colombia. Sep. 2012.
-- Participation in the formative session "MLPR: Programming Techniques in MATLAB". MathWorks, Spain. Apr. 2012.
-- Participation in the formative session "Exigencia en la formación del estudiante". University of Navarra, Spain. Dec. 10. 2010.
-- Participation in the Investment Readiness Seminar: "Creación de Empresa y Preparación a la Inversión". San Sebastián, Spain. Sep. 19, 26, Oct. 10, 24. 2008.
-- NetRiders - Cisco Systems Anual Conference of Networks. Mérida, Venezuela. Jul. 2003.
 
 ## 📋Backstage
 
