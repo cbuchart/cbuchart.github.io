@@ -18,8 +18,7 @@ layout: default
 
 # 💼Current positions
 
-- Senior C++ Embedded Software Engineer. [Wallbox](https://wallbox.com), Spain. Since Sep. 2021.
-- Operating Systems. Invited Professor. Undergraduate course. [TECNUN](https://tecnun.unav.edu), University of Navarra, Spain. Since Sep. 2011.
+- Senior Principal Software Engineer. [Avid](https://www.avid.com), Spain. Since Nov. 2022.
 
 # 📚Studies
 
@@ -49,6 +48,8 @@ layout: default
 
 ## ⏮Previous positions
 
+- Senior C++ Embedded Software Engineer. [Wallbox](https://wallbox.com), Spain. Sep. 2021 - Nov. 2022.
+- Operating Systems. Invited Professor. Undergraduate course. [TECNUN](https://tecnun.unav.edu), University of Navarra, Spain. Sep. 2011 - Dec. 2021.
 - Senior Software Engineer. [STT Systems](https://www.stt-systems.com), Spain. Feb. 2013 - Sep. 2021.
 - Network Security. Invited Professor. Undergraduate course. TECNUN, University of Navarra, Spain. Sep. 2011 - Jun. 2018.
 - Researcher. Applied Mechanics Department, Centro de Estudios e Investigaciones Técnicas de Guipúzcoa, Spain. Sep. 2008 - Feb. 2013.
