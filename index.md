@@ -19,7 +19,7 @@ layout: default
 
 # 💼Current positions
 
-- Senior Principal Software Engineer. [Avid](https://www.avid.com), Spain. Since Nov. 2022.
+- Senior Principal Software Engineer. Audio Team, [Avid](https://www.avid.com), Spain. Since Nov. 2022.
 
 # 📚Studies
 
@@ -64,7 +64,9 @@ layout: default
 
 # 🖥Projects
 
-I am currently part of the Embedded Team at Wallbox Chargers, focusing in the development of the services running in the chargers. Additionally, I collaborate with the QA Team in improvements on the GitLab pipeline and other automations.
+At Avid I participate in the development of [Pro Tools](https://www.avid.com/pro-tools), collaborating in diverse areas of the project such as new edition features, user interface and optimization.
+
+In my previous position in the Embedded Team at Wallbox Chargers, I focused in the development of the services running in the chargers. Additionally, I collaborated with the DevOps and QA Team in improvements on the GitLab pipeline and other automations.
 
 As part of the software engineering team at STT, my work was centered in the development of applications for motion capture, video processing and 3D scanning, as well as in the design of user interfaces for highly demanding desktop software and mobile applications. At CEIT I focused on the research and development of simulators, medical imaging software and training systems.
 
