@@ -15,6 +15,7 @@ layout: default
 - [LinkedIn](https://www.linkedin.com/in/cbuchart/)
 - [GitHub](https://github.com/cbuchart)
 - [Stack Overflow](https://stackoverflow.com/users/1485885/cbuchart)
+- [Twitter](https://twitter.com/header_files)
 
 # 💼Current positions
 
