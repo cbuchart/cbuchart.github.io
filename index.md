@@ -4,10 +4,7 @@ layout: default
 ## 🖖🏻Personal information
 
 - Name: Carlos Ignacio Buchart Izaguirre
-- Birthdate: May 3rd, 1984
-- Birthplace: Valencia, Venezuela
 - Hometown: Valencia, Spain
-- Contact: cbuchart 'at' gmail 'dot' com
 
 ### 🔊Social
 
