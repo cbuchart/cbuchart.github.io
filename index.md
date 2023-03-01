@@ -4,7 +4,10 @@ layout: default
 ## 🖖🏻Personal information
 
 - Name: Carlos Ignacio Buchart Izaguirre
+- Birthdate: May 3rd, 1984
+- Birthplace: Valencia, Venezuela
 - Hometown: Valencia, Spain
+- Contact: cbuchart 'at' gmail 'dot' com
 
 ### 🔊Social
 
@@ -63,9 +66,9 @@ layout: default
 
 At Avid I participate in the development of [Pro Tools](https://www.avid.com/pro-tools), collaborating in diverse areas of the project such as new edition features, user interface and optimization.
 
-In my previous position in the Embedded Team at Wallbox Chargers, I focused in the development of the services running in the chargers. Additionally, I collaborated with the DevOps and QA Team in improvements on the GitLab pipeline and other automations.
+In my previous position in the Embedded Team at Wallbox Chargers, I focused in the development of the services running in the chargers. Additionally, I collaborated with the DevOps and QA Teams in improvements on the GitLab pipeline and other automations.
 
-As part of the software engineering team at STT, my work was centered in the development of applications for motion capture, video processing and 3D scanning, as well as in the design of user interfaces for highly demanding desktop software and mobile applications. At CEIT I focused on the research and development of simulators, medical imaging software and training systems.
+As part of the software engineering team at STT, my work was centered on the development of applications for motion capture, video processing and 3D scanning, as well as in the design of user interfaces for highly demanding desktop software and mobile applications. At CEIT I focused on the research and development of simulators, medical imaging software and training systems.
 
 ### 📀Most recent projects
 
@@ -121,7 +124,7 @@ As part of the software engineering team at STT, my work was centered in the dev
 
 ### 📽Conferences
 
-- Buchart, C. "Integrating Qt in Legacy MFC Applications". QtDevCon22. Berlin, Germany. Jun. 13-15, 2022.
+- Buchart, C. "Integrating Qt in Legacy MFC Applications". QtDevCon22. Berlin, Germany. Jun. 13-15, 2022. [Watch it](https://youtu.be/mlEbOcC1GJI).
 - Echegaray, G., Herrera, I., Aguinaga, I., Buchart, C. &amp; Borro, D. "Towards a Multimodal Neurosurgery Simulator: Brain Haptic Physical Simulation and Visualization". Proceedings of the XXX Congreso Anual de la Sociedad Española de Ingeniería Biomédica (CASEIB 2012). San Sebastián, Spain. Nov. 19-21, 2012.
 - Echegaray, G., Herrera, I., Buchart, C. &amp; Borro, D. "Towards a Multimodal Neurosurgery Simulator: Drilling Simulation and Visualization Using Real Patient Data", Proceedings of the XXIX Congreso Anual de la Sociedad Española de Ingeniería Biomédica (CASEIB 2011), pp. 423-426. Cáceres, Spain. Nov. 16-18, 2011.
 - Herrera, I., Buchart, C. &amp; Borro, D. "Preserving coherent illumination in style transfer functions for volume rendering". Proceedings of the Information Visualization Conference (IV'10). London, UK. Jul. 27-29, 2010. [DOI](https://dx.doi.org/10.1109/IV.2010.16).
@@ -154,7 +157,7 @@ As part of the software engineering team at STT, my work was centered in the dev
 
 ### 🎫Courses and seminars
 
-- ThePowerMBA. ThePower Business School. Jan. 2022 - Oct. 2022.
+- ThePowerMBA. ThePower Business School. Jan. 2022 - Oct. 2022. [Certificate](https://verified.sertifier.com/en/verify/50425893615116).
 - Training course "GitLab CI - A Complete Hands-On for CI/CD Pipelines & DevOps". 2022. [Certificate](https://www.udemy.com/certificate/UC-0ee63c64-ec11-4aad-887d-d70b1ad0b54e/).
 - Research internship at the Universidad Autónoma de Occidente, Cali, Colombia. Sep. 2012.
 - Participation in the formative session "MLPR: Programming Techniques in MATLAB". MathWorks, Spain. Apr. 2012.
