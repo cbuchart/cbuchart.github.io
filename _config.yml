@@ -1,0 +1,8 @@
+title: Carlos Buchart
+show_downloads: false
+remote_theme: pages-themes/slate@v0.2.0
+encoding: UTF-8
+locale: es_ES
+
+plugins:
+  - jekyll-remote-theme
