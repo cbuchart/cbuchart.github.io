@@ -39,8 +39,7 @@ layout: default
 **Development & Tools:**
 
 - Extensive experience in parallel architectures and multi-threading (C++11/17, pthreads);
-- Testing frameworks: GoogleTest, unit testing, integration testing;
-- Docker, CI/CD pipelines (GitLab), CMake, version control systems;
+- Docker, CI/CD pipelines (GitLab), version control systems (Git, SVN), GoogleTest, CMake;
 
 **Programming Languages:**
 
@@ -49,11 +48,11 @@ layout: default
 **Specialized Areas:**
 
 - Desktop UI development (Qt, MFC, Windows Forms);
-- Graphics programming (OpenGL, GLSL, Cg, CUDA);
 - Cross-platform development and system integration;
 
 **Past Experience:**
 
+- Graphics programming (OpenGL, GLSL, Cg, CUDA);
 - Mobile development (Cocoa Touch, Android SDK);
 - Web technologies (JavaScript, jQuery, HTML5, CSS3, PHP);
 
