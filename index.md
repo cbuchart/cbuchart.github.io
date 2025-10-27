@@ -28,18 +28,74 @@ layout: default
 - Operating Systems. Invited Professor. Undergraduate course. [TECNUN](https://tecnun.unav.edu), University of Navarra, Spain. Sep. 2011 - Dec. 2021;
 - Senior Software Engineer. [STT Systems](https://www.stt-systems.com), Spain. Feb. 2013 - Sep. 2021;
 
-### 💡 Background
+### 💡 Technical Skills
 
-- High proficiency in C++ (up to C++17, limited experience with C++20). Other programming languages with experience: C, Java, Python, C#, MATLAB, Objective-C, Bash, Visual Basic;
-- High proficiency with Qt and Boost. Other high level APIs with experience include GoogleTest, Cocoa, VTK, MFC, Poco;
-- Wide experience designing and developing user interfaces for desktop applications (mainly in Qt);
-- Wide experience in the development of graphic engines and visualization tools;
-- Wide experience in parallel architectures using multi-threading designs (C++11/17, Qt, pthreads, Boost);
-- Experience with Docker, CI/CD in GitLab, and CMake;
-- Past experience with OpenGL and shading languages (GLSL, Cg);
-- Past experience with with GPGPU technologies such as CUDA;
-- Past experience with mobile frameworks: Cocoa Touch, Android SDK;
-- Past experience with web technologies such as JavaScript, jQuery, HTML 5, CSS 3 and PHP;
+**Core Technologies:**
+
+- Expert in C++ (up to C++17, limited C++20) with 15+ years of experience;
+- High proficiency with Qt and Boost frameworks;
+- Performance profiling (Instrument, Intel VTune) and code optimization techniques;
+
+**Development & Tools:**
+
+- Extensive experience in parallel architectures and multi-threading (C++11/17, pthreads);
+- Testing frameworks: GoogleTest, unit testing, integration testing;
+- Docker, CI/CD pipelines (GitLab), CMake, version control systems;
+
+**Programming Languages:**
+
+- C, Python, MATLAB, Objective-C, Bash, Java, C#, Visual Basic;
+
+**Specialized Areas:**
+
+- Desktop UI development (Qt, MFC, Windows Forms);
+- Graphics programming (OpenGL, GLSL, Cg, CUDA);
+- Cross-platform development and system integration;
+
+**Past Experience:**
+
+- Mobile development (Cocoa Touch, Android SDK);
+- Web technologies (JavaScript, jQuery, HTML5, CSS3, PHP);
+
+### 🔬 Interests
+
+- Algorithms performance, code optimization and parallelization;
+- Technical leadership and mentoring teams to deliver high-quality software products;
+- Human-computer interfaces, user experience, interactive design and natural interfaces;
+- Computer graphics: surface reconstruction, volumetric visualization, virtual reality, CAD, computational geometry;
+
+## 🖥 Projects
+
+At Avid I'm part of [Pro Tools](https://www.avid.com/pro-tools), being the Tech Lead of the team for post-production and interoperability, owning new edition features (markers, data import, speech transcription) and expanding our UI framework (including integration with Qt). I also help in the development of internal tools for code quality and testing.
+
+One specific area I'm passionate about is performance profiling and code optimization. Regardless of the work I'm doing, I'm always trying to optimize code around (and not so close). As some specific examples: run-time cache for text rendering (10x), improved marker queries (530x for insertion, 370x for paste, 160x for drawing), RDP thinning algorithms for automation thinning (12x on average, best case 1900x), RadixTrie for property maps (3x) and unique name generation (75x), session import (about 400x of accumulated speed up through several improvements).
+
+In my previous position in the Embedded Team at Wallbox Chargers, I focused on the development of the services running in the chargers, as well as in the refactoring and migration of legacy components into a micro-services architecture. Additionally, I collaborated with the DevOps and QA Teams in improvements on the GitLab pipeline and other automations;
+
+As part of the software engineering team at STT, my work was centered on the development of applications for motion capture, video processing and 3D scanning, as well as in the design of user interfaces for highly demanding desktop software and mobile applications. At CEIT I focused on the research and development of simulators, medical imaging software and training systems;
+
+### 📀 Other Recent Projects
+
+_Projects under NDA are not listed here._
+
+- [Cycling 2DMA (previously BikeFit by STT Systems)](https://www.stt-systems.com/motion-analysis/2d-optical-motion-capture/cycling-2dma/) is a high speed 2D motion capture application for bike fitting, that provides a quick analysis of the rider’s position and dynamic measures. I'm the project manager as well as the developer of user interface (built on Qt), camera acquisition library (PointGrey and IDS), video management (including our own variation of M-JPEG), data analysis and measurement tools. [C++11, Qt5, Boost, PointGrey SDK, OpenCV, XML]. STT, Spain. 2016-2021;
+- [iSen](https://www.stt-systems.com/motion-analysis/inertial-motion-capture/isen/). I've participated in the design and development of the capture workflow, several plug-ins for video-capture and motion analysis, and the sessions database of this motion analysis tool for STT's IMUs (Inertial Measurement Unit). [C++, Qt5, MFC, Boost, XML, OpenCV, internal libraries]. STT, Spain. 2014-2021;
+- Podia Scanner software. Podia is high resolution foot scanner. Podia software comprises all necessary tools to perform accurate measurements. For this, I developed the patients database (see MetaDatabaseUI), the 3D reconstruction module and the measurement tools. Regarding the user interface, I participated in its graphic and interaction design, as well as in its development. [C++11, Qt5, Boost, Eigen, XML, OpenGL 3, GLSL, internal libraries]. STT, Spain. 2013-2021;
+- Licentia is a licensing and encryption system to be used by several STT's products. [C++11, OpenSSL, Qt5, Boost, XML]. STT, Spain, 2014-2021;
+- Scanner Central Station is a dynamic and highly flexible plug-in architecture for STT's scanners. SCS provides both a common and intuitive front end GUI, and a framework for creating the acquisition drivers. [C++11, Qt5, Boost, OpenGL 3, GLSL, internal libraries]. STT, Spain. 2014-2021;
+- ScanStudio is a scanning software suite that unifies different scanner drivers (using Scanner Central Station), post-processing tools and a common models database. It uses a plug-in architecture to allow maximum flexibility and provide developers with a common framework to reduce the development time and guarantee a great integration. ScanStudio is the environment upon which the software of STT's scanners is built. [C++11, Qt5, Boost, internal libraries]. STT, Spain. 2014-2021;
+- MeshProcessingLib is a library that provides high-level data structures and algorithms for point cloud and triangle mesh manipulation, including surface reconstruction, registration, filtering and reshaping. [C++, Boost, PCL, OpenMesh, Eigen]. STT, Spain. 2013-2021;
+- MetaDabaseUI. At STT I've developed a reusable module for database of patients and their individual sessions (scans, motion capture), that can be embedded in any Qt or MFC application as an independent component. This module generates the UI and DB structure from a meta-data file. [C++11, Qt5, XML]. STT, Spain. 2013;
+
+### 💿 Past Relevant Projects
+
+- Analysis software for industrial inspection. The piece to be scanned is analysed from the CAD model in order to guide a laser scanner placed on an industrial robot. After acquisition the data is registered and quality features are automatically measured. STT, Spain. 2014;
+- Information and visualization tools for the efficient interaction of the documentation associated to machine-tools. CEIT, Spain. 2012-2013;
+- Portable digital X-ray detector. My main role in this project was in the development of the image processing module of the detector. CEIT, Spain. 2012;
+- mtReconstructionLib. A surface reconstruction library from unorganized points. This a result of my PhD Thesis, and several modules have been used in other projects such as MaxiPlan. [Temporary link](https://sites.google.com/site/dborro/research/3d-reconstruction);
+- Volumetric visualization related projects. Horizontal support to several medical visualization projects of the Simulation Unit of CEIT. [C++, GLSL, OpenGL, CUDA, Cg]. CEIT, Spain. 2008-2013. [Temporary link](https://sites.google.com/site/dborro/research/volumetric-visualization);
+- MaxiPlan: a planning and simulation software for maxillofacial surgery. My participation in this project included: user interface, design of surgery planning through 2D interaction, volumetric visualization and surface reconstruction. [C++/CLI, Windows Forms, OpenGL, Cg]. CEIT, Spain. 2005-2008;
+- viewitLib is a framework developed by CEIT for building medical applications that have a strong visualization work-flow. It includes support for several visualization widgets such as 2D/3D slices and volumetric visualization, it provides a set of commonly used interaction tools and it is easily customizable. It has been used for quickly building of several applications, such as the ones listed in this section. [C++, Qt4, VTK, ITK, OpenGL, GLSL]. CEIT, Spain. 2009-2013;
 
 ### ⏮ Previous Positions
 
@@ -52,43 +108,6 @@ layout: default
 - Systems and Programming Teacher Assistant. Undergraduate course. Mathematics School, University of Carabobo, Venezuela. Jun. 2002 - Mar. 2005;
 - Programmer. Liceo Camoruco, Venezuela. Oct. 2000 - Mar. 2006;
 - High Performance Computing Laboratory Assistant. Computer Science School, University of Carabobo, Venezuela. Jun. 2004 - Dec. 2005;
-
-### 🔬 Interests
-
-- Algorithms performance and parallelization;
-- Human-computer interfaces, user experience, interactive design and natural interfaces;
-- Computer graphics: surface reconstruction, volumetric visualization, virtual reality, CAD, computational geometry;
-
-## 🖥 Projects
-
-At Avid I participate in the development of [Pro Tools](https://www.avid.com/pro-tools), collaborating in diverse areas of the project such as new edition features for post-production, expanding our UI framework (includind integration with Qt), code optimization for large sessions and the development of internal tools for code quality and testing;
-
-In my previous position in the Embedded Team at Wallbox Chargers, I focused in the development of the services running in the chargers, as well as in the refactoring and migration of legacy components into a micro-services architecture. Additionally, I collaborated with the DevOps and QA Teams in improvements on the GitLab pipeline and other automations;
-
-As part of the software engineering team at STT, my work was centered on the development of applications for motion capture, video processing and 3D scanning, as well as in the design of user interfaces for highly demanding desktop software and mobile applications. At CEIT I focused on the research and development of simulators, medical imaging software and training systems;
-
-### 📀 Most Recent Projects
-
-_Projects under NDA are not listed here._
-
-- [Cycling 2DMA (previously BikeFit by STT Systems)](https://www.stt-systems.com/motion-analysis/2d-optical-motion-capture/cycling-2dma/) is a high speed 2D motion capture application for bike fitting, that provides a quick analysis of the rider’s position and dynamic measures. I'm the project manager as well as the developer of user interface (built on Qt), camera acquisition library (PointGrey and IDS), video management (including our own variation of M-JPEG), data analysis and measurement tools. [C++11, Qt5, Boost, PointGrey SDK, OpenCV, XML]. STT, Spain. 2016-now;
-- [iSen](https://www.stt-systems.com/motion-analysis/inertial-motion-capture/isen/). I've participated in the design and development of the capture workflow, several plug-ins for video-capture and motion analysis, and the sessions database of this motion analysis tool for STT's IMUs (Inertial Measurement Unit). [C++, Qt5, MFC, Boost, XML, OpenCV, internal libraries]. STT, Spain. 2014-now;
-- Podia Scanner software. Podia is high resolution foot scanner. Podia software comprises all necessary tools to perform accurate measurements. For this, I developed the patients database (see MetaDatabaseUI), the 3D reconstruction module and the measurement tools. Regarding the user interface, I participated in its graphic and interaction design, as well as in its development. [C++11, Qt5, Boost, Eigen, XML, OpenGL 3, GLSL, internal libraries]. STT, Spain. 2013-now;
-- Licentia is a licensing and encryption system to be used by several STT's products. [C++11, OpenSSL, Qt5, Boost, XML]. STT, Spain, 2014-now;
-- Scanner Central Station is a dynamic and highly flexible plug-in architecture for STT's scanners. SCS provides both a common and intuitive front end GUI, and a framework for creating the acquisition drivers. [C++11, Qt5, Boost, OpenGL 3, GLSL, internal libraries]. STT, Spain. 2014-now;
-- ScanStudio is a scanning software suit that unifies different scanner drivers (using Scanner Central Station), post-processing tools and a common models database. It uses a plug-in architecture to allow maximum flexibility and provide developers with a common framework to reduce the development time and guarantee a great integration. ScanStudio is the environment upon which the software of STT's scanners is built. [C++11, Qt5, Boost, internal libraries]. STT, Spain. 2014-now;
-- MeshProcessingLib is a library that provides high-level data structures and algorithms for point cloud and triangle mesh manipulation, including surface reconstruction, registration, filtering and reshaping. [C++, Boost, PCL, OpenMesh, Eigen]. STT, Spain. 2013-now;
-- MetaDabaseUI. At STT I've developed a reusable module for database of patients and their individual sessions (scans, motion capture), that can be embedded in any Qt or MFC application as an independent component. This module generates the UI and DB structure from a meta-data file. [C++11, Qt5, XML]. STT, Spain. 2013;
-
-### 💿 Past Relevant Projects
-
-- Analysis software for industrial inspection. The piece to be scanned is analysed from the CAD model in order to guide a laser scanner placed on an industrial robot. After acquisition the data is registered and quality features are automatically measured. STT, Spain. 2014;
-- Information and visualization tools for the efficient interaction of the documentation associated to machine-tools. CEIT, Spain. 2012-2013;
-- Portable digital X-ray detector. My main role in this project was in the development of the image processing module of the detector. CEIT, Spain. 2012;
-- mtReconstructionLib. A surface reconstruction library from unorganized points. This a result of my PhD Thesis, and several modules have been used in other projects such as MaxiPlan. [Temporary link](https://sites.google.com/site/dborro/research/3d-reconstruction);
-- Volumetric visualization related projects. Horizontal support to several medical visualization projects of the Simulation Unit of CEIT. [C++, GLSL, OpenGL, CUDA, Cg]. CEIT, Spain. 2008-2013. [Temporary link](https://sites.google.com/site/dborro/research/volumetric-visualization);
-- MaxiPlan: a planning and simulation software for maxillofacial surgery. My participation in this project included: user interface, design of surgery planning through 2D interaction, volumetric visualization and surface reconstruction. [C++/CLI, Windows Forms, OpenGL, Cg]. CEIT, Spain. 2005-2008;
-- viewitLib is a framework developed by CEIT for building medical applications that have a strong visualization work-flow. It includes support for several visualization widgets such as 2D/3D slices and volumetric visualization, it provides a set of commonly used interaction tools and it is easily customizable. It has been used for quickly building of several applications, such as the ones listed in this section. [C++, Qt4, VTK, ITK, OpenGL, GLSL]. CEIT, Spain. 2009-2013;
 
 ### 💾 Other Projects
 
@@ -142,7 +161,7 @@ _Projects under NDA are not listed here._
 
 ### 📃 Technical Papers
 
-- Herrera, I., Buchart, C., and Borro, D., "Adding Refined Isosurface Rendering and Shadow Mapping to vtkGPUVolumeRayCastMapper". The VTK Journal - 2012 January-December Submissions. 2012. [Link](https://hdl.handle.net/10380/3388);
+- Herrera, I., Buchart, C. and Borro, D., "Adding Refined Isosurface Rendering and Shadow Mapping to vtkGPUVolumeRayCastMapper". The VTK Journal - 2012 January-December Submissions. 2012. [Link](https://hdl.handle.net/10380/3388);
 
 <div>
   <figure>
@@ -160,9 +179,9 @@ _Projects under NDA are not listed here._
 - Training course "GitLab CI - A Complete Hands-On for CI/CD Pipelines & DevOps". 2022. [Certificate](https://www.udemy.com/certificate/UC-0ee63c64-ec11-4aad-887d-d70b1ad0b54e/);
 - Research internship at the Universidad Autónoma de Occidente, Cali, Colombia. Sep. 2012;
 - Participation in the formative session "MLPR: Programming Techniques in MATLAB". MathWorks, Spain. Apr. 2012;
-- Participation in the formative session "Exigencia en la formación del estudiante". University of Navarra, Spain. Dec. 10. 2010;
-- Participation in the Investment Readiness Seminar: "Creación de Empresa y Preparación a la Inversión". San Sebastián, Spain. Sep. 19, 26, Oct. 10, 24. 2008;
-- NetRiders - Cisco Systems Anual Conference of Networks. Mérida, Venezuela. Jul. 2003;
+- Participation in the formative session "Exigencia en la formación del estudiante". University of Navarra, Spain. Dec. 10, 2010;
+- Participation in the Investment Readiness Seminar: "Creación de Empresa y Preparación a la Inversión". San Sebastián, Spain. Sep. 19, 26, Oct. 10, 24, 2008;
+- NetRiders - Cisco Systems Annual Conference of Networks. Mérida, Venezuela. Jul. 2003;
 
 ### 🥇 Acknowledgements and Awards
 
