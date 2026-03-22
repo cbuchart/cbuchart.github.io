@@ -23,7 +23,7 @@ layout: default
 
 ## 💼 Recent Positions
 
-- Senior Principal Software Engineer. Audio Team, [Avid](https://www.avid.com), Spain (remote). Since Nov. 2022;
+- Senior Principal Software Engineer, Tech Lead. Audio Team, [Avid](https://www.avid.com), Spain (remote). Since Nov. 2022;
 - Senior C++ Embedded Software Engineer. [Wallbox](https://wallbox.com), Spain. Sep. 2021 - Nov. 2022;
 - Operating Systems. Invited Professor. Undergraduate course. [TECNUN](https://tecnun.unav.edu), University of Navarra, Spain. Sep. 2011 - Dec. 2021;
 - Senior Software Engineer. [STT Systems](https://www.stt-systems.com), Spain. Feb. 2013 - Sep. 2021;
@@ -32,9 +32,9 @@ layout: default
 
 **Core Technologies:**
 
-- Expert in C++ (up to C++17, limited C++20) with 15+ years of experience;
+- Expert in C++ (up to C++17, limited C++20) with 20+ years of experience;
 - High proficiency with Qt and Boost frameworks;
-- Performance profiling (Instrument, Intel VTune) and code optimization techniques;
+- Performance profiling (Instrument, Intel VTune) and code optimization;
 
 **Development & Tools:**
 
@@ -43,18 +43,13 @@ layout: default
 
 **Programming Languages:**
 
-- C, Python, MATLAB, Objective-C, Bash, Java, C#, Visual Basic;
+- C, Python, MATLAB, Objective-C, Bash;
+- Limited or past experience with Java, C#, Visual Basic;
 
 **Specialized Areas:**
 
-- Desktop UI development (Qt, MFC, Windows Forms);
+- Desktop UI development (Qt, MFC);
 - Cross-platform development and system integration;
-
-**Past Experience:**
-
-- Graphics programming (OpenGL, GLSL, Cg, CUDA);
-- Mobile development (Cocoa Touch, Android SDK);
-- Web technologies (JavaScript, jQuery, HTML5, CSS3, PHP);
 
 ### 🔬 Interests
 
@@ -63,15 +58,21 @@ layout: default
 - Human-computer interfaces, user experience, interactive design and natural interfaces;
 - Computer graphics: surface reconstruction, volumetric visualization, virtual reality, CAD, computational geometry;
 
+**Past Experience:**
+
+- Graphics programming (OpenGL, GLSL, Cg, CUDA);
+- Mobile development (Cocoa Touch, Android SDK);
+- Web technologies (JavaScript, jQuery, HTML5, CSS3, PHP);
+
 ## 🖥 Projects
 
-At Avid I'm part of [Pro Tools](https://www.avid.com/pro-tools), being the Tech Lead of the team for post-production and interoperability, owning new edition features (markers, data import, speech transcription) and expanding our UI framework (including integration with Qt). I also help in the development of internal tools for code quality and testing.
+At Avid I'm part of [Pro Tools](https://www.avid.com/pro-tools), being the Tech Lead of the UI Modernization team, in charge of the migration of the frontend to Qt and system APIs. I also was Tech Lead of the team for post-production and interoperability, owning new edition features (markers, data import, speech transcription) and expanding our UI framework (including integration with Qt). I also help in the development of internal tools for code quality and testing;
 
-One specific area I'm passionate about is performance profiling and code optimization. Regardless of the work I'm doing, I'm always trying to optimize code around (and not so close). As some specific examples: run-time cache for text rendering (10x), improved marker queries (530x for insertion, 370x for paste, 160x for drawing), RDP thinning algorithms for automation thinning (12x on average, best case 1900x), RadixTrie for property maps (3x) and unique name generation (75x), session import (about 400x of accumulated speed up through several improvements).
+One specific area I'm passionate about is performance profiling and code optimization. As some specific examples: run-time cache for text rendering (10x), improved marker queries (530x for insertion, 370x for paste, 160x for drawing), RDP thinning algorithms for automation simplification (12x on average, best case 1900x), RadixTrie for property maps (3x) and unique name generation (75x), session import (about 400x of accumulated speed up through several improvements);
 
 In my previous position in the Embedded Team at Wallbox Chargers, I focused on the development of the services running in the chargers, as well as in the refactoring and migration of legacy components into a micro-services architecture. Additionally, I collaborated with the DevOps and QA Teams in improvements on the GitLab pipeline and other automations;
 
-As part of the software engineering team at STT, my work was centered on the development of applications for motion capture, video processing and 3D scanning, as well as in the design of user interfaces for highly demanding desktop software and mobile applications. At CEIT I focused on the research and development of simulators, medical imaging software and training systems;
+As part of the software engineering team at STT, my work was centered on the development of applications for motion capture, video processing and 3D scanning, as well as in the design of user interfaces for highly demanding desktop software and mobile applications. I lead the development of the video-based motion capture system, optimizing high-speed video recording, integrating Qt and MFC under the same frontend and designing the different analysis tools. At CEIT I focused on the research and development of simulators, medical imaging software and training systems;
 
 ### 📀 Other Recent Projects
 
