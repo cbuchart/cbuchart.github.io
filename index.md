@@ -46,17 +46,17 @@ layout: default
 - C, Python, MATLAB, Objective-C, Bash;
 - Limited or past experience with Java, C#, Visual Basic;
 
-**Specialized Areas:**
-
-- Desktop UI development (Qt, MFC);
-- Cross-platform development and system integration;
-
 ### 🔬 Interests
 
 - Algorithms performance, code optimization and parallelization;
 - Technical leadership and mentoring teams to deliver high-quality software products;
 - Human-computer interfaces, user experience, interactive design and natural interfaces;
 - Computer graphics: surface reconstruction, volumetric visualization, virtual reality, CAD, computational geometry;
+
+**Other Specialization Areas:**
+
+- Desktop UI development (Qt, MFC);
+- Cross-platform development;
 
 **Past Experience:**
 
@@ -66,7 +66,7 @@ layout: default
 
 ## 🖥 Projects
 
-At Avid I'm part of [Pro Tools](https://www.avid.com/pro-tools), being the Tech Lead of the UI Modernization team, in charge of the migration of the frontend to Qt and system APIs. I also was Tech Lead of the team for post-production and interoperability, owning new edition features (markers, data import, speech transcription) and expanding our UI framework (including integration with Qt). I also help in the development of internal tools for code quality and testing;
+At Avid I'm part of [Pro Tools](https://www.avid.com/pro-tools), being the Tech Lead of the UI Modernization team, in charge of the migration of the frontend to Qt and system APIs. I also was Tech Lead of the team for post-production and interoperability, owning new edition features (markers, data import, speech transcription) and expanding our UI framework (including integration with Qt). As part of my Tech Lead role I also try to improve collaboration between developers and QAs, looking towards improving coverage, automating tests, and analyzing the impact of changes in other areas;
 
 One specific area I'm passionate about is performance profiling and code optimization. As some specific examples: run-time cache for text rendering (10x), improved marker queries (530x for insertion, 370x for paste, 160x for drawing), RDP thinning algorithms for automation simplification (12x on average, best case 1900x), RadixTrie for property maps (3x) and unique name generation (75x), session import (about 400x of accumulated speed up through several improvements);
 
