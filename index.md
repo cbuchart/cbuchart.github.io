@@ -32,8 +32,8 @@ layout: default
 
 **Core Technologies:**
 
-- Expert in C++ (up to C++17, limited C++20) with 20+ years of experience;
-- High proficiency with Qt and Boost frameworks;
+- High proficiency in C++ (up to C++17, limited C++20) with 20+ years of experience;
+- Long experience with Qt and Boost frameworks;
 - Performance profiling (Instrument, Intel VTune) and code optimization;
 
 **Development & Tools:**
